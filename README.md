@@ -1,4 +1,4 @@
-# Hi 👋, I'm Canay
+# Hi 👋, I'm Mert
 🔭 I’m currently working on Java programming<br>
 🌱 I’m currently learning Selenium, Rest Assured API and Testing Techniques<br>
 💬 Ask me about anything<br>📫 How to reach me:  msevtekin@gmail.com<br><br>
