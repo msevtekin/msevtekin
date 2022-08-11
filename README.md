@@ -1,7 +1,8 @@
 # Hi 👋, I'm Mert
-🔭 I’m currently working on Java programming<br>
-🌱 I’m currently learning Selenium, Rest Assured API and Testing Techniques<br>
-<li>💬 Ask me about anything<br>📫 How to reach me:  msevtekin@gmail.com<br><br></li>
+<li>🔭 I’m currently working on Java programming</li><br>
+<li>🌱 I’m currently learning Selenium, Rest Assured API and Testing Techniques</li><br>
+<li>💬 Ask me about anything</li><br>
+<li>📫 How to reach me:  msevtekin@gmail.com<br><br></li>
 
 
 ## 🌐 Socials:
